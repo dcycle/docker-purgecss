@@ -1,0 +1,11 @@
+.class-exists-in-html {
+  color: red;
+}
+
+.class-added-by-javascript {
+  text-decoration: underline;
+}
+
+.class-is-not-used-at-all {
+  color: blue;
+}
