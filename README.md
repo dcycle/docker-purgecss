@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-purgecss.svg?style=svg)](https://circleci.com/gh/dcycle/docker-purgecss)
+[![GitHub Actions](https://github.com/dcycle/docker-jenkins/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 Remove extraneous css with [purgecss](https://purgecss.com).
 
